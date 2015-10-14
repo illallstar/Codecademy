@@ -19,3 +19,5 @@ confirm("Or the second block?");
 }
 
 //test notes for git
+
+//another git test from command line and nano
